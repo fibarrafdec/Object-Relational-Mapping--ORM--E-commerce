@@ -14,6 +14,7 @@ Object-Relational-Mapping--ORM--E-commerce is the back end for an e-commerce sit
 - [User Story](#User-Story)
 - [Acceptance Criteria](#Acceptance-Criteria)
 - [GIF](#GIF)
+- [Screenshots](#Screenshots)
 - [Walkthrough Video](#Walkthrough-Video)
 - [Installation Instructions](#Installation-Instructions)
 - [Usage Instructions](#Usage-Instructions)
@@ -57,6 +58,14 @@ THEN I am able to successfully create, update, and delete data in my database.
 
 The following animation demonstrates the desired application functionality:
 ![E-Commerce](./public/13-orm-homework-demo-01.gif)
+
+## Screenshots
+![Screenshot](./public/1.png)
+![Screenshot](./public/2.png)
+![Screenshot](./public/3.png)
+![Screenshot](./public/4.png)
+![Screenshot](./public/5.png)
+![Screenshot](./public/6.png)
 
 ## Walkthrough Video:
 [Click Here to Watch](https://drive.google.com/file/d/1z4u8lSv9d8FYC7aeTHRJWeMvHSTI0CJy/view?usp=sharing)
